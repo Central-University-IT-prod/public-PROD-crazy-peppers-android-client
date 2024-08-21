@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TeamX</string>
+    <string name="login_error">Неверный логин и пароль</string>
+    <string name="olympiad_name">Название олимпиады</string>
+    <string name="role_name">Название роли</string>
+    <string name="number_of_participants">Участников</string>
+    <string name="number_of_participants_in_team">Всего участников в команде</string>
+    <string name="min">min</string>
+    <string name="max">max</string>
+    <string name="create">Создать</string>
+    <string name="deadline">Deadline</string>
+    <string name="tag">Тег</string>
+    <string name="roles">Роли</string>
+    <string name="tags">Теги</string>
+    <string name="save">Сохранить</string>
+    <string name="login">Логин</string>
+    <string name="signIn">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="login_hint">Введите логин и пароль, выданные организатором олимпиады</string>
+
+    <string name="error_empty_olympiad_name">Пустое название олимпиады</string>
+    <string name="error_deadline_time">Время дедлайна не должно быть в прошлом</string>
+    <string name="error_empty_roles">Создайте хотя бы одну роль</string>
+    <string name="error_max_less_than_min">Max должно быть больше Min</string>
+    <string name="error_too_few_participants">Слишком мало участников</string>
+</resources>
